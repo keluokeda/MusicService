@@ -10,3 +10,8 @@
 - 用Mongo缓存接口数据，防止网易云封杀后没有数据展示
 - 采用Swagger接口文档，让前端开发调试更加方便
 
+
+#### 文档示例
+<img width="1546" alt="image" src="https://github.com/keluokeda/MusicService/assets/16809185/fdff2970-2267-4648-9281-723d2624a7ad">
+
+
